@@ -1,0 +1,31 @@
+.hh{
+     background-color: rgb(128, 128, 185); 
+    /* background:url(CARR5.png);
+    background-repeat: no-repeat; */
+}
+
+#xx{
+    font-family: josefin sans-serif;
+    font-size: 100px;
+    color: rgb(20, 20, 138);
+}
+
+h1 span{
+    color: red;
+}
+#navbarText ul li a{
+    
+    text-align: center;
+    margin-left: 350px;
+    font-size: 25px;
+    
+}
+.logo{
+    height: 55px;
+    width: 55PX;
+    /* border-radius: 20px; */
+    border-bottom-right-radius: 10PX;
+    border-top-left-radius: 10PX;
+    
+}
+
